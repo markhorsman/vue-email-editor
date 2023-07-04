@@ -18,7 +18,7 @@ import { EmailEditor } from '../components'
 import sample from '../data/sample.json';
 
 export default {
-  name: 'exampleView',
+  name: 'example',
   components: {
     EmailEditor
   },
